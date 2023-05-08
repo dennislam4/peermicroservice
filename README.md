@@ -14,12 +14,12 @@ To send a message using the client, follow these steps:
 3. Enter your message.
 
 Example:
-'''python
+```python
 Enter 'send' to send a message or 'get' to get your messages:
 send
 Enter your message: Hello, world!
 Server response: Message received at May 08, 2023 12:34
-'''
+```
 
 ## Receiving Data from the Microservice
 To receive your messages from the server, follow these steps:
@@ -27,9 +27,9 @@ To receive your messages from the server, follow these steps:
 2. When prompted, enter 'get'.
 
 Example:
-'''python
+```python
 Enter 'send' to send a message or 'get' to get your messages:
 get
 [May 08, 2023 12:34] Hello, world!
 [May 08, 2023 12:35] Another message!
-'''
+```
