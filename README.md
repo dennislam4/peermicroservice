@@ -6,6 +6,10 @@ This microservice will allow users to send and receive messages using ZeroMQ. Cl
 1. Download the client.py and server.py files
 2. Install any neccessary packages (ZeroMQ)
 3. Run the server.py file and then the client.py file in order, through seperate terminals
+```python
+python server.py
+python client.py
+```
 
 ## Requesting Data from the Microservice
 To send a message using the client, follow these steps:
