@@ -1,6 +1,6 @@
 # Assignment 8: Microservice Implementation (Milestone #2)
 
-This microservice allows users to send and receive messages using ZeroMQ. Clients can send messages and request to fetch their messages from the server. All messages sent and received have intergrated timestamps which can be useful for your personal project.
+This microservice will allow users to send and receive messages using ZeroMQ. Clients can send messages and request to fetch their messages from the server. All messages sent and received have intergrated timestamps which can be useful for your personal project.
 
 ## Get Started
 1. Download the client.py and server.py files
